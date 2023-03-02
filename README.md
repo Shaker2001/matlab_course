@@ -1,4 +1,4 @@
-# matlab_course-
+# matlab_course
 all content of matlab course and tasks 
 
 basics - vectors - linear algebra  fuzzy logic - limits
